@@ -1,11 +1,8 @@
-# Import libraries
 import json
 import requests
 
-# Defining Binance API URL
 key = "https://api.binance.com/api/v3/ticker/price?symbol="
 
-# Making list for multiple crypto's
 currencies = ["BTCUSDT", "ETHUSDT", "LTCUSDT"]
 j = 0
 
