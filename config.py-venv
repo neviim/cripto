@@ -1,0 +1,18 @@
+# Região/Estado
+localidade = 'America/Sao_Paulo'
+
+# Telegram (lista chatID: @RawDataBot)
+# grupo: #
+# bot: @
+#
+telegram_bot_chat_id = "-10000909164"
+telegram_bot_token = "5121080571:AAFEwVe_zcjtVJTjGYcPgFQ" 
+
+# coinmarketcap key 
+#
+X_CMC_PRO_API_KEY = "3f71ff02-baf0f1-bac0f1-c32bacaf0f1b"
+
+# API - https://pro.coinmarketcap.com/account 
+# https://coinmarketcap.com/
+#
+url_api_coinmarketcap = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest'
