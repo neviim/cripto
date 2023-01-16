@@ -8,7 +8,6 @@ j = 0
 
 # running loop to print all crypto prices
 for i in currencies:
-
 	# completing API for request
 	url = key+currencies[j]
 	data = requests.get(url)
