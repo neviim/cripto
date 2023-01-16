@@ -20,8 +20,8 @@ def get_coin_data():
     url = cf.url_api_coinmarketcap
 
     parameters = {
-        'id':'1,1027,52', #Identificar as crypto a extrair
-        'convert':'USD'   #Selecionar a fiat para apresentar o valor
+        'id':'1, 1027, 825', #Identificar as crypto a serem extraidas
+        'convert':'USD'      #Selecionar a fiat para apresentar o valor
     }
 
     #Enviar a Key da API de forma mais segura
